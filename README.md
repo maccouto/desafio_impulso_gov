@@ -1,6 +1,3 @@
-# desafio_impulso_gov
-
-
 # Desafio Técnico | Impulso Gov
 
 No âmbito do projeto, identificamos a necessidade premente de mitigar o trabalho manual envolvido nos acessos remotos para integração dos bancos de dados. Com base na ordem dos principais problemas previamente solucionados, é imperativo estabelecer um processo eficiente que reduza significativamente o tempo destinado a esses acessos.
