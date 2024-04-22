@@ -16,7 +16,7 @@ O processo proposto envolve as seguintes etapas:
 
 3 - Implantação de Plataforma RMM: A plataforma de Remote Monitoring and Management (RMM) é capaz de monitorar parâmetros específicos pré determinados dos computadores prevenindo interrupções indesejadas. Essa plataforma será responsável por identificar a causa das interrupções, seja por queda de energia ou desligamento manual. A plataforma também será capaz de monitorar o gerenciador de tarefas e garantir que está funcionando. Essa plataforma nos permitirá automatizar soluções reincidentes já conhecidas na base de conhecimento afim de evitar acessos remotos para executar tarefas repetitivas. 
 
-4 - Instalação Remota em Alta Escala: A plataforma RMM possibilitará a instalação da aplicação e-SUS APS PEC de forma remota em segunda plano e em alta escala, de maneira simultânea. Isso elimina a necessidade de acessos remotos individuais, economizando tempo e recursos.
+4 - Instalação Remota em Alta Escala: A plataforma RMM possibilitará a instalação da aplicação e-SUS APS PEC de forma remota em segundo plano e em alta escala, de maneira simultânea. Isso elimina a necessidade de acessos remotos individuais, economizando tempo e recursos.
 
 5 - Controle de Incidentes: A plataforma RMM também oferecerá recursos para o controle de incidentes, permitindo que o município abra chamados para resolver problemas ou esclarecer dúvidas sobre o funcionamento do transmissor. Também será possível solicitar mudanças de computador ou alterações no sistema operacional através desta plataforma.
 
